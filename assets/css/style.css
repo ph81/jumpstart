@@ -120,7 +120,7 @@ h3 {
   text-align: center;
 }
 
-@media only screen and (max-width: 767px) {
+@media only screen and (max-width: 768px) {
 
   .jumbotron {
     padding-top: 16rem;
@@ -131,7 +131,7 @@ h3 {
   }
 
   .relative-wrapper {
-    top: -11rem;
+    top: -15rem;
   }
 }
 
@@ -146,7 +146,7 @@ h3 {
   }
 
   .relative-wrapper {
-    top: -11rem;
+    top: -15rem;
   }
 }
 
